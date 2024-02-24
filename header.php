@@ -51,6 +51,6 @@
 <body>
 	<div class="header-wrapper">
 		<header>
-			<h2>Heading</h2>
+			<h2>Header</h2>
 		</header>
 	</div>
