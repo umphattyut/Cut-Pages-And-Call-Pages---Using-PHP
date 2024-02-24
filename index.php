@@ -1,11 +1,11 @@
 <?php
-// Here's what I'm gonna share with you about cutting page into many sections and call them into the main page (home)
-// You don't need to make header/styles/script/menu/sidebar in each page, so use this, you make one time only
-// Set body.php to defaul page
-// Use Switch Case to change page sections
+// Here's what I'm gonna share with you about cutting a page into many sections and call them into the master page (home)
+// You don't need to make header/styles/script/menu/sidebar in each page, so use this, you need one page only
+// Set the body.php to defaul page
+// Use Switch Case PHP to switch page sections
 //================================================================
-// Be aware of the page section and style
-// If the page section has different style, it's not working well
+// Be aware of the page sections and styles
+// If the page sections have different style, it won't working well
 // Please take care of your css and main tags like section/ div/..
 //================================================================
 $page = "body.php";
